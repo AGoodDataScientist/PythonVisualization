@@ -1,2 +1,2 @@
 # PythonVisualization
-Visualization Plot using Python
+Visualization Plots using Python
